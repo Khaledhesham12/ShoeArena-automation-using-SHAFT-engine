@@ -1,0 +1,12 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 5' test cases in the current suite                                        
+                                           Test Method: 'tests.hoverMainCategoriesTest.validateHover'                                           
+                     Test Description: 'Validate that the user can hover main category and choose sub category successfully'                     
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Hover over "MEN". @24-04-2024 18:30:45.0109 PM
+[ReportManager] Get text "SHOES" from "SHOES". @24-04-2024 18:30:45.0167 PM
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:30:45.0327 PM
+[ReportManager] Click "SHOES". @24-04-2024 18:30:53.0294 PM
+[ReportManager] Get text "SHOES" from "By.xpath: //ol[@class="breadcrumb"]//li[3]". @24-04-2024 18:30:53.0370 PM

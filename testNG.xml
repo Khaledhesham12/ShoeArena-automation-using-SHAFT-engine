@@ -1,0 +1,34 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite" preserve-order="true">
+    <parameter name="browser" value="chrome" />
+    <test name="Regression Test in chrome">
+        <classes>
+            <class name="tests.registrationTest">
+                <methods>
+                    <include name="validateRegister" />
+                </methods>
+            </class>
+            <class name="tests.loginTest">
+                <methods>
+                    <include name="validateInValidLogin" />
+                </methods>
+            </class>
+            <class name="tests.hoverMainCategoriesTest">
+                <methods>
+                    <include name="validateHover" />
+                </methods>
+            </class>
+            <class name="tests.addToCartTest">
+                <methods>
+                    <include name="validateAddToCart" />
+                </methods>
+            </class>
+            <class name="tests.contactUsTest">
+                <methods>
+                    <include name="validateContactUs" />
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,22 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 5' test cases in the current suite                                        
+                                              Test Method: 'tests.addToCartTest.validateAddToCart'                                              
+                            Test Description: 'Validate that the user can add the searched item to cart successfully'                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Text cleared Using Native Clear @24-04-2024 18:32:24.0741 PM
+[ReportManager] Type "Walkmat Men's Casual Shoes Black" into "Search". @24-04-2024 18:32:24.0853 PM
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:32:25.0078 PM
+[ReportManager] Click "". @24-04-2024 18:32:36.0596 PM
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:32:36.0783 PM
+[ReportManager] Click "By.xpath: //div[@class="clsProductList"]//div[@class="row row-sm"]/div[1]". @24-04-2024 18:32:42.0862 PM
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:32:43.0044 PM
+[ReportManager] Click "By.xpath: //li[@data-eu="40"]". @24-04-2024 18:32:43.0104 PM
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:32:43.0279 PM
+[ReportManager] Click "ADD TO SHOPPING BAG". @24-04-2024 18:32:43.0332 PM
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:32:44.0184 PM
+[ReportManager] Click "View Cart". @24-04-2024 18:32:48.0541 PM
+[ReportManager] Expected "Walkmat Men's Casual Shoes Black", and actual "Walkmat Men's Casual Shoes Black" @24-04-2024 18:32:48.0655 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_18-32-49-103_24042024' @24-04-2024 18:32:49.0106 PM
+[ReportManager] Verification passed @24-04-2024 18:32:49.0106 PM

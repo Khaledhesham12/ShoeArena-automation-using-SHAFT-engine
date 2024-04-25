@@ -1,0 +1,2 @@
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/registerData.json". @24-04-2024 18:30:53.0685 PM
+[ReportManager] Successfully created attachment 'Test Data - JSON' @24-04-2024 18:30:53.0686 PM

@@ -1,0 +1,8 @@
+{
+  "firstName": "Automation",
+  "lastName": "Tester",
+  "email": "Tester@gmail.com",
+  "password": "1234567",
+  "assertionMessage": "First Name : Automation"
+
+}

@@ -1,0 +1,9 @@
+[ReportManager] Setting "targetOperatingSystem" property with "LINUX". @24-04-2024 18:31:28.0352 PM
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @24-04-2024 18:31:28.0354 PM
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\h\IdeaProjects\Sho..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true} @24-04-2024 18:31:28.0355 PM
+[ReportManager] Attempting to run locally on: "Windows | Chrome". @24-04-2024 18:31:28.0356 PM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @24-04-2024 18:31:28.0356 PM
+[ReportManager] Successfully Opened: "Windows | Chrome". @24-04-2024 18:31:29.0471 PM
+[ReportManager] Target URL: "https://www.shoearena.sa/en" @24-04-2024 18:31:29.0476 PM
+[ReportManager] Initial URL: "about:blank" @24-04-2024 18:31:29.0501 PM
+[ReportManager] Navigate to url "https://www.shoearena.sa/en". @24-04-2024 18:31:41.0445 PM

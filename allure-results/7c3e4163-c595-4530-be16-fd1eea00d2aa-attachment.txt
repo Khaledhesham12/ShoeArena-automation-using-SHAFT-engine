@@ -1,0 +1,18 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 5' test cases in the current suite                                        
+                                               Test Method: 'tests.loginTest.validateInValidLogin'                                               
+                             Test Description: 'Validate that the user cannot login with invalid data successfully'                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:31:41.0648 PM
+[ReportManager] Click "By.xpath: //div[contains(@class,'dropdown cart-dropdown clsMobileLogin')]". @24-04-2024 18:31:41.0713 PM
+[ReportManager] Text cleared Using Native Clear @24-04-2024 18:31:42.0246 PM
+[ReportManager] Type "wrongTester@gmail.com" into "Email". @24-04-2024 18:31:42.0330 PM
+[ReportManager] Text cleared Using Native Clear @24-04-2024 18:31:42.0407 PM
+[ReportManager] Type "1234567" into "Password". @24-04-2024 18:31:42.0449 PM
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:31:42.0627 PM
+[ReportManager] Click "Submit". @24-04-2024 18:31:42.0692 PM
+[ReportManager] Expected "تحذير: لا يتوافق البريد الإلكتروني و/أو كلمة المرور!", and actual "تحذير: لا يتوافق البريد الإلكتروني و/أو كلمة المرور!" @24-04-2024 18:31:43.0184 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_18-31-45-500_24042024' @24-04-2024 18:31:45.0509 PM
+[ReportManager] Verification passed @24-04-2024 18:31:45.0510 PM

@@ -1,0 +1,4 @@
+{
+  "wrongEmail" : "wrongTester@gmail.com",
+  "expectedMessage":"تحذير: لا يتوافق البريد الإلكتروني و/أو كلمة المرور!"
+}

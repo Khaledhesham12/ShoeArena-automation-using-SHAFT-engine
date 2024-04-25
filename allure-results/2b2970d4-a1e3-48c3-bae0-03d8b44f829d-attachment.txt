@@ -1,0 +1,25 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 5' test cases in the current suite                                        
+                                              Test Method: 'tests.contactUsTest.validateContactUs'                                              
+                                      Test Description: 'Validate that the user can contact successfully '                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:31:58.0699 PM
+[ReportManager] Click "By.xpath: //div[contains(@class,'dropdown cart-dropdown clsMobileLogin')]". @24-04-2024 18:31:58.0766 PM
+[ReportManager] Text cleared Using Native Clear @24-04-2024 18:31:59.0175 PM
+[ReportManager] Type "Tester@gmail.com" into "Email". @24-04-2024 18:31:59.0252 PM
+[ReportManager] Text cleared Using Native Clear @24-04-2024 18:31:59.0338 PM
+[ReportManager] Type "1234567" into "Password". @24-04-2024 18:31:59.0384 PM
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:31:59.0555 PM
+[ReportManager] Click "Submit". @24-04-2024 18:31:59.0605 PM
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:31:59.0770 PM
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:32:04.0290 PM
+[ReportManager] Click "CONTACT US". @24-04-2024 18:32:09.0599 PM
+[ReportManager] Text cleared Using Native Clear @24-04-2024 18:32:09.0724 PM
+[ReportManager] Type "01147690862" into "By.id: contact-mobile". @24-04-2024 18:32:09.0782 PM
+[ReportManager] Select "Returns" from "By.id: contact-subject". @24-04-2024 18:32:10.0308 PM
+[ReportManager] Text cleared Using Native Clear @24-04-2024 18:32:10.0372 PM
+[ReportManager] Type "Bad quality" into "By.id: contact-enquiry". @24-04-2024 18:32:10.0420 PM
+[ReportManager] Moved the mouse to the middle of the element. @24-04-2024 18:32:10.0602 PM
+[ReportManager] Click "SUBMIT". @24-04-2024 18:32:10.0642 PM
